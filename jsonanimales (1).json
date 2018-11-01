@@ -1,0 +1,62 @@
+[
+  {
+    "life": 500, 
+    "name": "Bear", 
+    "id": 9,
+	"pictureURL": "https://unagb.files.wordpress.com/2015/11/grizzly-bear2.jpg"
+  }, 
+  {
+    "life": 15, 
+    "name": "Bee", 
+    "id": 15,
+	"pictureURL": "tps://pixabay.com/get/e037b50b2af21c22d9584518a34d4693e677e4d410ac104491f0c87ca4e4b2b0/bee-924426_1920.jpg"
+  }, 
+  {
+    "life": 80, 
+    "name": "Chicken", 
+    "id": 1,
+	"pictureURL": "https://pixabay.com/get/ea32b30828fd063ed1534705fb094796e672e2d318b80c4090f4c170a2e9b5b1d9/chicken-3727097_1920.jpg"
+  }, 
+  {
+    "life": 300, 
+    "name": "Dog", 
+    "id": 8,
+	"pictureURL": "https://cdn.pixabay.com/photo/2016/02/19/15/46/dog-1210559_960_720.jpg"
+  }, 
+  {
+    "life": 220, 
+    "name": "Eagle", 
+    "id": 4,
+	"pictureURL": "https://all4desktop.com/data_images/original/4245871-eagle.jpg"
+  }, 
+  {
+    "life": 350, 
+    "name": "Fox", 
+    "id": 24,
+	"pictureURL": "https://pixabay.com/get/e83db50d2df2043ed1534705fb094796e672e2d318b80c4090f4c170a2e9b4bcdf/fox-1842565_1920.jpg"
+  }, 
+  {
+    "life": 490, 
+    "name": "Giraffe", 
+    "id": 69,
+	"pictureURL": "https://pixabay.com/get/ea36b50b2bf2073ed1534705fb094796e672e2d318b80c4090f4c170a2e9b4b1dd/giraffe-3344366_1920.jpg"
+  }, 
+  {
+    "life": 450, 
+    "name": "Horse", 
+    "id": 14,
+	"pictureURL": "https://pixabay.com/get/e83cb60e21fd1c22d9584518a34d4693e677e4d410ac104491f0c87ca3efb6bd/horse-197199_1920.jpg"
+  }, 
+  {
+    "life": 400, 
+    "name": "Lion", 
+    "id": 46,
+	"pictureURL": "https://pixabay.com/get/ea35b50f2ffd063ed1534705fb094796e672e2d318b80c4090f4c170a2e9b7bedc/lion-3040797_1920.jpg"
+  }, 
+  {
+    "life": 190, 
+    "name": "Raccoon", 
+    "id": 10,
+	"pictureURL": "https://pixabay.com/get/ea30b20728fc003ed1534705fb094796e672e2d318b80c4090f4c170a2e9b6b8d8/raccoon-3538081_1920.jpg"
+  }
+ ]
